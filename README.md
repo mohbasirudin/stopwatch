@@ -1,16 +1,7 @@
-# stopwatch
+# Stopwatch
+A simple project using clean archicture flutter
+- Multi-language (ID & EN)
+- Dark/light theme
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1653876696](https://user-images.githubusercontent.com/46457480/170904734-0a0a4591-18a9-48dd-8ffb-dd5118c673a7.png)
+![Screenshot_1653876702](https://user-images.githubusercontent.com/46457480/170904753-a356b4c4-3321-435a-9f84-58c497be65e0.png)
